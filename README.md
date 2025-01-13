@@ -15,7 +15,7 @@ A minimal and efficient Node.js project template using TypeScript. This boilerpl
 
    ```bash
    git clone https://github.com/yasirpucit/Node.js-TypeScript-Boilerplate.git
-   cd node-typescript
+   cd Node.js-TypeScript-Boilerplate
 
 2. Install Dependencies
 
